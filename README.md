@@ -1,6 +1,7 @@
-# Calculator_Android_Studio_Project
+# Calculator_AndroidStudio_Project
 
 - This is an Android Project build using AndroidStudio.
+- The Calculator contains 2 editable text fields where user can enter numbers for calculations, 1     readonly field where the results are displayed and 5 buttons +,-,*,/ and Clear respectively for     doing arithmetic operations.
 - For this we require AndroidStudio installed on our machine, knowledge of AndroidStudio, Java       programming and xml.
          1. Create a New Project
          2. Select an Empty activity
